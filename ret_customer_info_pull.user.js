@@ -5,6 +5,7 @@
 // @include *.socialadeng.com/home/admin/search
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @require  https://gist.github.com/raw/2625891/waitForKeyElements.js
+// @version 0.0.1
 // ==/UserScript==
 
 waitForKeyElements ('div.c-agentsearch__results', agentInfoCopy);
